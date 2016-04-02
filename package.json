@@ -1,0 +1,51 @@
+{
+  "name": "react-xmd",
+  "version": "1.0.0",
+  "description": "React Components for Express Material Design",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickymast3r/react-xmd.git"
+  },
+  "keywords": [
+    "react",
+    "material",
+    "material",
+    "ui",
+    "material",
+    "design",
+    "google",
+    "design"
+  ],
+  "author": "Tricky <tricky@t4v.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trickymast3r/react-xmd/issues"
+  },
+  "homepage": "https://github.com/trickymast3r/react-xmd#readme",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.4",
+    "babel-eslint": "^6.0.2",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "chai": "^3.5.0",
+    "eslint": "^2.6.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3",
+    "mocha": "^2.4.5",
+    "react-addons-test-utils": "^0.14.8",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  }
+}
